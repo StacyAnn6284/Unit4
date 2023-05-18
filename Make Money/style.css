@@ -1,0 +1,74 @@
+h1 {
+  text-align: center;
+}
+
+#moneyForm {
+  display: flex;
+  flex-direction: column;
+  width: 300px;
+  margin: auto;
+  padding: 10px;
+}
+.formText {
+  margin: 15px;
+  font-size: 20px;
+}
+
+#quantity {
+  width: 60px;
+}
+
+#moneyButton {
+  font-size: 20px;
+  background-color: lightseagreen;
+  padding: 12px;
+  margin-top: 15px;
+  margin-right: 70px;
+  box-sizing: border-box;
+}
+
+.nickel {
+  height: 75px;
+  width: 75px;
+  margin: 5px;
+  background-color: lightgray;
+  border-radius: 50%;
+  display: inline-block;
+  border: 2px solid black;
+  text-align: center;
+}
+
+.dime {
+  height: 50px;
+  width: 50px;
+  margin: 5px;
+  background-color: grey;
+  border-radius: 50%;
+  display: inline-block;
+  border: 2px solid black;
+  text-align: center;
+}
+
+.penny {
+  height: 65px;
+  width: 65px;
+  margin: 5px;
+  background-color: brown;
+  border-radius: 50%;
+  display: inline-block;
+  border: 2px solid black;
+  text-align: center;
+  align-items: center;
+}
+
+.quarter {
+  height: 90px;
+  width: 90px;
+  margin: 5px;
+  background-color: lightgray;
+  border-radius: 50%;
+  display: inline-block;
+  border: 2px solid black;
+  text-align: center;
+  align-items: center;
+}

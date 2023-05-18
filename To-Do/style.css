@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+}
+
+.dark {
+  background-color: gray;
+}
+
+.dark h2 {
+  margin: 0;
+}
+
+.outline {
+  border: 2px solid black;
+}
